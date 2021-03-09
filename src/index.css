@@ -29,6 +29,9 @@ button {
   align-items: center;
   padding: 50px;
 }
+.container h1 {
+  padding-bottom: 20px;
+}
 
 .pokemon-container {
   width: 600px;

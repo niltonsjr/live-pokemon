@@ -42,6 +42,7 @@ function App() {
 
   return (
     <div className="container">
+      <h1>Live-Pokemon</h1>
       <div className="pokemon-container">
         {pokemon.map((poke) => (
           <div key={poke.name} className="pokemon">
